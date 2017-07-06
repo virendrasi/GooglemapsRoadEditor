@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMaps", "GoogleMaps\GoogleMaps.csproj", "{A1B31D95-AAF7-4F7E-B3A5-F743DF2F8198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapsAPI", "MapsAPI\MapsAPI.csproj", "{CBBBD683-EA50-4A3B-9AFC-46A7666DC2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B31D95-AAF7-4F7E-B3A5-F743DF2F8198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B31D95-AAF7-4F7E-B3A5-F743DF2F8198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B31D95-AAF7-4F7E-B3A5-F743DF2F8198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B31D95-AAF7-4F7E-B3A5-F743DF2F8198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBBD683-EA50-4A3B-9AFC-46A7666DC2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBBD683-EA50-4A3B-9AFC-46A7666DC2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBBD683-EA50-4A3B-9AFC-46A7666DC2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBBD683-EA50-4A3B-9AFC-46A7666DC2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
